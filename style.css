@@ -35,6 +35,9 @@ html,body{
     display: flex;
     align-items: center;
     justify-content: flex-start;
+    /*space betweem makes sure that the ones to left and to the right ar seperated giving as much space in between as possible
+    so once if u give space betweeen for onece and then afterr that use ofr the othehr dont use space betwween it will  by defaulat create that space between the front and back*/
+    
     padding: 0 150px;
     gap: 40px;
     position: fixed;
